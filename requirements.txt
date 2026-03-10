@@ -1,0 +1,6 @@
+streamlit
+pyodbc
+pandas
+sqlalchemy
+psycopg2
+xlsxwriter
